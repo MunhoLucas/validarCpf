@@ -65,7 +65,7 @@ if result2 < 2{
     digito = 11 - result2
 }
 
-// adicionando o segundo digito a variavel de apoioi
+// adicionando o segundo digito a variavel de apoio
 captaDigito += String(digito)
 
 // se o cpf limpo sem os pontos e sem o traco for igual a variavel de apoio que ja contem os dois digitos verificados o cpf é valido. se nao ele vai ser invalido.
